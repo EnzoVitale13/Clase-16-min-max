@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+nav{
+    background-color: bisque;
+    height: 80px;
+}   
+
+footer{
+background-color: coral;
+height: 80px;
+}
+
+.wraper{
+    background-color: rgb(160,154,144);
+    font-size: 5em;
+    min-height: calc(100vh - 160px);
+}
